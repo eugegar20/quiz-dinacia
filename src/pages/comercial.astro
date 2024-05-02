@@ -1,0 +1,11 @@
+---
+import Quizzer from "../components/Quizzer";
+import PREGUNTAS from "../helpers/comercial.json";
+---
+
+<div
+  class="h-screen bg-cover flex flex-col items-center text-white justify-evenly"
+  style={{ backgroundImage: "url('/imagenes/cielo5.jpg')" }}
+>
+  <Quizzer questions={PREGUNTAS} client:load />
+</div>

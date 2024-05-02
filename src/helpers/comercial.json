@@ -1,0 +1,120 @@
+    [
+      {
+        "pregunta": "La carga del ala del avión durante un giro coordinado nivelado con vientos suaves depende de:",
+        "respuestas": [
+          { "text": "La tasa de giro", "correct": false },
+          { "text": "El ángulo de banqueo", "correct": true },
+          { "text": "La velocidad real del aire", "correct": false }
+        ],
+        "fundamento": "Para cualquier ángulo de banqueo, la tasa inclinación varia con la velocidad del aire. Si el ángulo de\n        banqueo se mantiene constante y la velocidad del aire es incrementada, la tasa de giro disminuirá.\n        Debido a esto; no hay un cambio en la fuerza centrífuga para ningún ángulo de banqueo dado. Por lo\n        tanto, el factor de carga seguirá siendo el mismo. El factor de carga varia cambiando el ángulo de\n        banqueo y se incrementa rápidamente cuando el ángulo de inclinación alcanza los 50°.\n        La respuesta (A) es incorrecta porque la tasa de giro y la velocidad aerodinámica real no influyen en la\n        carga alar en un giro coordinado. La respuesta (C) es incorrecta porque la tasa de giro y la velocidad\n        aerodinámica real no influyen en la carga alar en un giro coordinado."
+      },
+      {
+        "pregunta": "En una recuperación rápida de una maniobra de picada, los efectos del factor de carga harían que la velocidad de pérdida:",
+        "respuestas": [
+          { "text": "Incremente", "correct": true },
+          { "text": "Disminuya", "correct": false },
+          { "text": "No varía", "correct": false }
+        ],
+        "fundamento": "Hay una relación directa entre el factor de carga sobre el ala y sus características de pérdida. La\n        velocidad de pérdida incrementa en proporción a la raíz cuadrada del factor de carga"
+      },
+      {
+        "pregunta": "La sustentación en un ala se define más adecuadamente como:",
+        "respuestas": [
+          { "text": "Fuerza que actúa perpendicularmente al viento relativo", "correct": true },
+          { "text": "Diferencia de presiones actuando perpendicular sobre la cuerda del ala", "correct": false },
+          { "text": "Presión reducida resultante de un flujo laminar sobre la curvatura superior de un perfil aerodinámico, que actúa perpendicularmente a la curvatura media", "correct": false }
+        ],
+        "fundamento": "La sustentación se opone a la fuerza descendente del peso. Se produce por el efecto dinámico del aire\n        que actúa sobre el ala y actúa perpendicularmente a la trayectoria de vuelo (viento relativo) a través\n        del centro de sustentación del ala."
+      },
+      {
+        "pregunta": "Si un avión es calificado de categoría utilitaria, significaría que este avión podría ser operado en cual de las siguientes maniobras?",
+        "respuestas": [
+          { "text": "Acrobacias limitadas, excluyendo barrenas", "correct": false },
+          { "text": "Acrobacias limitadas, incluyendo barrenas (Si se aprueba)", "correct": true },
+          { "text": "Cualquier maniobra excepto acrobáticas y barrenas", "correct": false }
+        ],
+        "fundamento": "Los aviones de categoría utilitaria pueden hacer todas las maniobras de la categoría normal más las\n        acrobacias limitadas, incluyendo barrenas (Si están aprobadas).\n        La respuesta (A) es incorrecta porque la categoría utilitaria incluye barrenas. La respuesta (C) es\n        incorrecta porque la categoría normal prohíbe acrobacias y barrenas"
+      },
+      {
+        "pregunta": "La relación entre la carga aerodinámica total impuesta sobre el ala y el peso bruto de un avión en vuelo se conoce como:",
+        "respuestas": [
+          { "text": "Factor de carga y afecta directamente la velocidad de pérdida", "correct": true },
+          { "text": "Factor de aspecto y afecta directamente la velocidad de pérdida", "correct": false },
+          { "text": "Factor de carga y este no tiene relación con la velocidad de pérdida", "correct": false }
+        ],
+        "fundamento": "El factor de carga es la relación entre la carga aerodinámica impuesta a las alas de un avión y el peso\n        bruto del avión. Un factor de carga incrementa la velocidad de pérdida y disminuye la velocidad de\n        pérdida."
+      },
+      {
+        "pregunta": "El factor de carga es la sustentación generada por las alas de un avión en un momento dado...",
+        "respuestas": [
+          { "text": "Dividido por el peso total del avión", "correct": true },
+          { "text": "Multiplicado por el peso total del avión", "correct": false },
+          { "text": "Dividido por el peso en vacío del avión", "correct": false }
+        ],
+        "fundamento": "El factor de carga es la relación entre la carga total soportada por el ala y el peso total del avión; es\n        decir, la carga aérea total soportada por las alas dividida por el peso total del avión.\n        La respuesta (B) es incorrecta porque el factor de carga multiplicado por el peso del avión es igual a la\n        sustentación requerida. La respuesta (C) es incorrecta porque el factor de carga es la sustentación\n        dividida por el peso total del avión."
+      },
+      {
+        "pregunta": "Mientras se ejecuta un giro nivelado a 60 grados, el avión tiene un factor de carga de 2.0 ¿Qué significa esto?",
+        "respuestas": [
+          { "text": "La carga total sobre la estructura del avión es dos veces su peso", "correct": true },
+          { "text": "El factor de carga está por encima de la carga límite", "correct": false },
+          { "text": "El factor de ráfagas es dos veces la carga límite total", "correct": false }
+        ],
+        "fundamento": "El factor de carga es la relación entre la carga aérea total soportada por el ala y el peso total del avión;\n        es decir, la carga total soportada por las alas dividida por el peso total del avión."
+      },
+      {
+        "pregunta": "Para cualquier ángulo de inclinación, en cualquier avión, el factor de carga impuesto en un giro coordinado con altitud constante...",
+        "respuestas": [
+          { "text": "Es constante y la velocidad de pérdida incrementará", "correct": true },
+          { "text": "Varía con la tasa de giro", "correct": false },
+          { "text": "Es constante y la velocidad de pérdida disminuirá", "correct": false }
+        ],
+        "fundamento": "En un avión a cualquier velocidad, si se mantiene una altitud constante durante el giro, el factor de\n        carga para cualquier grado de inclinación es la misma, que es la resultante de la gravedad y la fuerza\n        centrífuga. La carga soportada por las alas incrementa con el ángulo de giro. Las velocidades de\n        pérdida incrementan en proporción a la raíz cuadrada del factor de carga.\n        La respuesta (B) es incorrecta porque la velocidad de giro no afecta al factor de carga. La respuesta\n        (C) es incorrecta porque la velocidad de pérdida aumentará con el aumento de la inclinación."
+      },
+      {
+        "pregunta": "Mientras se mantiene un ángulo de banqueo y altitud constante en un giro coordinado, un aumento de la velocidad del aire...",
+        "respuestas": [
+          { "text": "Incrementa la tasa de giro resultante y disminuye el factor de carga", "correct": false },
+          { "text": "Disminuye la tasa de giro resultante y no cambia el factor de carga", "correct": true },
+          { "text": "Incrementa la tasa de giro resultante y no cambia el factor de carga", "correct": false }
+        ],
+        "fundamento": "Para cualquier ángulo de banqueo, la velocidad de giro varia con la velocidad del aire. En otras\n        palabras, si el ángulo de banqueo se mantiene constante y la velocidad del aire es incrementada, la\n        tasa de giro disminuirá, o si la velocidad del aire disminuye, la tasa de giro incrementará. Debido a\n        esto, no hay un cambio en la fuerza centrífuga para cualquier inclinación dada. Por lo tanto, el factor\n        de carga permanece igual.\n        La respuesta (A) es incorrecta porque el factor de carga permanece igual para un ángulo de banqueo\n        constante. La respuesta (C) es incorrecta porque la tasa de giro en un ángulo de banqueo constante\n        disminuirá con el incremento en la velocidad del aire, y el factor de carga permanecerá igual."
+      },
+      {
+        "pregunta": "Mientras se mantiene el ángulo de banqueo constante en un giro nivelado, si la tasa de giro es variada, el factor de carga...",
+        "respuestas": [
+          { "text": "Permanecerá constante con respecto a la densidad del aire y el vector de sustentación resultante", "correct": true },
+          { "text": "Variará en función de la velocidad y la densidad del aire proveniente de la resultante de la variación proporcional del vector de sustentación", "correct": false },
+          { "text": "Variará en función de la resultante del vector de sustentación", "correct": false }
+        ],
+        "fundamento": "Para cualquier ángulo de inclinación la tasa de inclinación variara con respecto a la velocidad del aire.\n        En otras palabras, si el ángulo de banqueo se mantiene constante y la velocidad del aire aumenta, la\n        tasa de giro decrecerá, o si la velocidad del aire disminuye, la tasa de giro incrementará. Debido a esto,\n        no hay un cambio en la fuerza centrífuga para una inclinación dada. Por lo tanto, el factor de carga\n        seguirá siendo el mismo.\n        La respuesta (B) es incorrecta porque la velocidad de giro varía en función de la velocidad del aire con\n        un ángulo de inclinación constante. La respuesta (C) es incorrecta porque el factor de carga varía en\n        función del vector de carga resultante."
+      },
+      {
+        "pregunta": "Qué afirmación es verdadera en realción con el cambio del ángulo de ataque?",
+        "respuestas": [
+          { "text": "Una disminución en el ángulo de ataque incrementará la presión debajo del ala y disminuirá la resistencia", "correct": false },
+          { "text": "Un aumento en el ángulo de ataque incrementará la resistencia", "correct": true },
+          { "text": "Un aumento en el ángulo de ataque disminuirá la presión debajo del ala e incrementará la resistencia", "correct": false }
+        ],
+        "fundamento": "El aire que golpea la parte inferior del ala es desviado hacia abajo, produciendo una reacción opuesta\n        que empuja (Eleva) el ala hacia arriba. Para aumentar la sustentación, el ala se debe inclinar hacia\n        arriba, incrementando el ángulo de ataque y desviando el aire hacia abajo. Cuanto más grande sea el\n        ángulo de ataque, más se inclinará la fuerza de sustentación hacia la parte trasera de la aeronave,\n        aumentando la resistencia."
+      },
+      {
+        "pregunta": "En teoría, si la velocidad del aire de un avión se duplica mientras está en vuelo nivelado, la resistencia parásita será...",
+        "respuestas": [
+          { "text": "Dos veces mayor", "correct": false },
+          { "text": "La mitad de grande", "correct": false },
+          { "text": "Cuatro veces más grande", "correct": true }
+        ],
+        "fundamento": "La resistencia parásita tiene más influencia a altas velocidades, y la resistencia inducida tiene más\n        influencia a bajas velocidades. Por ejemplo, si un avión en condiciones de vuelo estable a 100 nudos\n        es acelerado a 200 nudos, la resistencia parásita será 4 veces más grande."
+      },
+      {
+        "pregunta": "En teoría, si la velocidad del aire de una aeronave en vuelo nivelado es cortada a la mitad, el valor de la resistencia parásita será...",
+        "respuestas": [
+          { "text": "Un tercio del valor", "correct": false },
+          { "text": "La mitad del valor", "correct": false },
+          { "text": "Un cuarto del valor", "correct": true }
+        ]
+      }
+    ]
+  
+  
